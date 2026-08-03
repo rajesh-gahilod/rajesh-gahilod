@@ -4,7 +4,7 @@
 📩 Email: **rajeshgahilod099@gmail.com** 
 
 🔭 Java Backend Developer at Quantum Soft Pvt. Ltd. 
-<br>💻 Working with Java, Spring Boot & MySQL  <br>
+<br>💻 Working with Java, Spring Boot & MySQL, Docker, Kubernetes, Jenkins, Microservices<br>
 🔐 Interested in Secure Backend Systems & Cyber Security  <br>
 🚀 Passionate about building scalable applications<br><br>
 
